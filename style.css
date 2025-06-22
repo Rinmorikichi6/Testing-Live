@@ -1,0 +1,271 @@
+body {
+    box-sizing: 0px;
+    margin: 0px;
+}
+
+.Sub-btn {
+    background-color: red;
+    color: white;
+    padding: 15px 20px 15px 20px;
+    border-radius: 2px;
+    cursor: pointer;
+    border: none;
+    transition: opacity 0.15s;
+}
+
+.Sub-btn:hover {
+    opacity: 0.7;
+}
+
+.Sub-btn:active {
+    opacity: 0.5;
+}
+
+.Join-btn {
+    padding: 13px 20px 13px 20px;
+    border-radius: 2px;
+    background-color: white;
+    color: rgb(7, 98, 218);
+    text-align: center;
+    cursor: pointer;
+    border-color: rgb(7, 98, 218);
+    margin-left: 10px;
+    transition: background-color 0.20s, color 0.20s;
+}
+
+.Join-btn:hover {
+    background-color: rgb(7, 98, 218);
+    color: white;
+}
+
+.Join-btn:active {
+    opacity: 0.5;
+}
+
+.Tweet-btn {
+    padding: 15px 20px 15px 20px;
+    margin-left: 10px;
+    border-radius: 50px;
+    background-color: rgb(42, 109, 255);
+    color: white;
+    cursor: pointer;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.Uber-btn {
+    margin-bottom: 10px;
+    padding: 15px 20px 15px 20px;
+    color: white;
+    background-color: black;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    margin-left: 8px;
+    transition: opacity 0.15s;
+}
+
+.Uber-btn:hover {
+    opacity: 0.6;
+}
+
+.amazon-btn {
+    color: black;
+    background-color: rgb(255, 216, 20);
+    border: none;
+    border-radius: 45px;
+    padding: 15px 20px 15px 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    margin-left: 8px;
+    transition: background-color 0.15s;
+}
+
+.amazon-btn:hover {
+    background-color: rgba(255, 224, 67, 0.808);
+}
+
+.github-btn {
+    color: white;
+    background-color: rgb(46, 164, 79);
+    border: none;
+    border-radius: 8px;
+    padding: 15px 20px 15px 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    margin-left: 8px;
+    transition: box-shadow 0.15s;
+}
+
+.github-btn:hover {
+    box-shadow: 5px 7px 10px rgba(0, 0, 0, 0.4);
+}
+
+.bootstrap-btn1 {
+    color: white;
+    background-color: rgb(121, 82, 179);
+    border: none;
+    border-radius: 5px;
+    padding: 15px 20px 15px 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    margin-left: 8px;
+    transition: background-color 0.15s;
+}
+
+.bootstrap-btn1:hover {
+    background-color: rgb(73, 31, 138);
+}
+
+.bootstrap-btn2 {
+    color: rgb(108, 117, 125);
+    border-color: black;
+    border-radius: 5px;
+    background-color: white;
+    padding: 15px 20px 15px 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    margin-left: 10px;
+    transition: background-color 0.15s, color 0.15s;
+}
+
+.bootstrap-btn2:hover {
+    background-color: rgb(108, 117, 125);
+    color: white;
+}
+
+.Linkedln-btn1 {
+    color: white;
+    border: none;
+    border-radius: 50px;
+    background-color: rgb(10, 102, 194);
+    padding: 15px 20px 15px 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    margin-left: 10px;
+    transition: background-color 0.15s,
+}
+
+.Linkedln-btn1:hover {
+    background-color: rgb(23, 26, 204);
+}
+
+.Linkedln-btn2 {
+    color: rgb(10, 102, 194);
+    border-color: rgb(10, 102, 194);
+    border-radius: 50px;
+    background-color: white;
+    padding: 15px 20px 15px 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    margin-left: 10px;
+    transition: border-width 0.15s;
+}
+
+.Linkedln-btn2:hover {
+    border-width: 3px;
+}
+
+.p1 {
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+}
+
+.btn1 {
+    color: black;
+    background-color: rgb(255, 216, 20);
+    border: none;
+    border-radius: 45px;
+    padding: 15px 20px 15px 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: opacity 0.15s, background-color 0.15s;
+}
+
+.btn1:hover {
+    background-color: rgba(255, 217, 0, 0.795);
+}
+
+.btn1:active {
+    opacity: 0.5;
+}
+
+.btn2 {
+    color: black;
+    background-color: rgb(255, 164, 28);
+    border: none;
+    border-radius: 45px;
+    padding: 15px 20px 15px 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    margin-left: 8px;
+    font-weight: bold;
+    transition: opacity 0.15s, background-color 0.15s;
+
+}
+
+.btn2:hover {
+    background-color: rgb(228, 141, 11);
+}
+
+.btn2:active {
+    opacity: 0.5;
+}
+
+.link-amazon {
+    transition: color 0.15s;
+}
+
+.link-amazon:hover {
+    color: orangered;
+}
+
+.Tahoma-font {
+    font-family: Tahoma;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.Arial-font {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+.Arial-font2 {
+    font-family: Arial;
+    color: rgb(255, 50, 50);
+    margin-top: 5px;
+    font-style: italic;
+}
+
+.course-title {
+    font-family: Verdana;
+    margin-bottom: 0px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.course-subtitle {
+    font-family: Verdana;
+    margin-top: 6px;
+    color: rgb(116, 114, 114);
+}
+
+.course-description {
+    font-family: Verdana;
+    width: 390px;
+    line-height: 24px;
+
+}
+
+.course-btn {
+    font-family: Verdana;
+    padding: 6px 10px 6px 10px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
